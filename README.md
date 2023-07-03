@@ -29,7 +29,7 @@
 <li align='left'>[2个月前 👍：33  ⭐：75]
       <a href="https://juejin.cn/post/7224509927913308218" target="_blank">保姆级教程带你创建 Vue3 项目模版</a>
       </li>
-<li align='left'>[10个月前 👍：42  ⭐：73]
+<li align='left'>[10个月前 👍：41  ⭐：73]
       <a href="https://juejin.cn/post/7135355487955976223" target="_blank">监听浏览器切屏功能实现</a>
       </li>
 <li align='left'>[10个月前 👍：7  ⭐：6]
