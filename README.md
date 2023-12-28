@@ -14,7 +14,7 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[6个月前 👍：19  ⭐：40]
+<li align='left'>[7个月前 👍：19  ⭐：40]
       <a href="https://juejin.cn/post/7239376445658972216" target="_blank">一个绝对优雅的筛选表格数据组件</a>
       </li>
 <li align='left'>[7个月前 👍：20  ⭐：33]
